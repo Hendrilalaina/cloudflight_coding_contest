@@ -20,4 +20,3 @@ for x in f:
             nW += 1
     res = str(nW) + " " + str(nD) + " " + str(nS) + " " + str(nA) + "\n"
     out.write(res)
-
